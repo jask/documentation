@@ -1095,7 +1095,7 @@
 					<varlistentry>
 						<term>Nyt kodeord</term>
 						<listitem>
-							<para>Selv som administrator kan du ikke dine brugeres kodeord. Her kan du imidlertid tildele bruger et helt nyt. Angiv dette i tekstfeltet ud for <guilabel>Nyt kodeord:</guilabel>. Krav til kodeordets længde er anført.</para>
+							<para>Selv som administrator kan du ikke aflæse dine brugeres kodeord. Her kan du imidlertid tildele bruger et helt nyt. Angiv dette i tekstfeltet ud for <guilabel>Nyt kodeord:</guilabel>. Krav til kodeordets længde er anført.</para>
 						
 							<important><para>Sørg altid for at dette felt er blankt, medmindre du vil ændre brugers kodeord. Hvis du ved et uheld ændrer brugers kodeord, kan det oprindelige ikke genskabes!</para></important>
 						</listitem>

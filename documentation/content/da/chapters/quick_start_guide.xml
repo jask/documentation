@@ -32,7 +32,7 @@
 				<para>Et af nedenstående SQL-databasesystemer:</para>
 				<itemizedlist>
 					<listitem>
-						<para>Firebird 2.1+</para>
+						<para>Firebird 2.1 eller over</para>
 					</listitem>
 					<listitem>
 						<para>MySQL 3.23 eller over</para>
