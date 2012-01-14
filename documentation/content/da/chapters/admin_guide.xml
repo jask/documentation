@@ -1813,7 +1813,7 @@
 			</mediaobject>
 		</figure>
 		
-		<para>Når du har valgt bruger eller gruppe, vises en side hvor du kan vælge specifikke tilladelser. Bemærk nogle få punkter på dene side - dropdownmenuen, hvor der vælges hvilken typ tilladelser der skal ændres, linket til <guilabel>Avancerede tilladelser</guilabel>, hvor der er mulighed for meget fintmasket tildeling af tilladelser, og dropdownmenuen <guilabel>Rolle</guilabel>, som giver mulighed for at tildele et helt foruddefineret tilladelsesæt som passer til den givne opgave.</para>
+		<para>Når du har valgt bruger eller gruppe, vises en side hvor du kan vælge specifikke tilladelser. Bemærk nogle få punkter på dene side - dropdownmenuen, hvor der vælges hvilken type tilladelser der skal ændres, linket til <guilabel>Avancerede tilladelser</guilabel>, hvor der er mulighed for meget fintmasket tildeling af tilladelser, og dropdownmenuen <guilabel>Rolle</guilabel>, som giver mulighed for at tildele et helt foruddefineret tilladelsesæt som passer til den givne opgave.</para>
 		
 		<figure id="img_setting_global_group_permissions">
 			<title>Indstilling af globale tilladelser for brugere og grupper</title>
